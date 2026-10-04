@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Test Book One",
+    "short_summary": "A short summary for the first test book.",
+    "full_summary": "A complete summary for the first test book.",
+    "themes": [
+      "friendship"
+    ],
+    "genres": [
+      "fantasy"
+    ]
+  },
+  {
+    "title": "Test Book Two",
+    "short_summary": "A short summary for the second test book.",
+    "full_summary": "A complete summary for the second test book.",
+    "themes": [
+      "war"
+    ],
+    "genres": [
+      "historical fiction"
+    ]
+  }
+]

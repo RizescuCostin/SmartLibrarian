@@ -1,0 +1,163 @@
+[
+  {
+    "title": "1984",
+    "short_summary": "A dystopian novel about surveillance, propaganda, and the destruction of individual freedom.",
+    "full_summary": "Winston Smith lives in Oceania, a totalitarian state ruled by the Party and its symbolic leader, Big Brother. His job is to rewrite historical records so that the past always supports the Party's current claims. Although he outwardly obeys, Winston secretly hates the regime and begins a forbidden relationship with Julia. Their attempt to preserve private thought and personal freedom eventually leads them into a trap created by the authorities. Winston is arrested, tortured, and psychologically broken until he abandons his resistance and accepts the Party's version of reality.",
+    "themes": [
+      "surveillance",
+      "freedom",
+      "totalitarianism",
+      "propaganda",
+      "identity"
+    ],
+    "genres": [
+      "dystopian fiction",
+      "political fiction"
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "short_summary": "A reluctant hobbit joins a dangerous journey involving dwarves, treasure, friendship, and a dragon.",
+    "full_summary": "Bilbo Baggins enjoys a peaceful life until the wizard Gandalf and a company of dwarves recruit him for an expedition. Their goal is to reclaim the Lonely Mountain and its treasure from the dragon Smaug. During the journey, Bilbo encounters trolls, goblins, giant spiders, elves, and the mysterious creature Gollum. He discovers a magical ring and gradually becomes more courageous and resourceful. By the time the group reaches the mountain, Bilbo has changed from a cautious homebody into a clever and dependable adventurer.",
+    "themes": [
+      "courage",
+      "friendship",
+      "adventure",
+      "greed",
+      "personal growth"
+    ],
+    "genres": [
+      "fantasy",
+      "adventure"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "short_summary": "An orphan discovers that he is a wizard and begins studying magic at Hogwarts.",
+    "full_summary": "Harry Potter grows up neglected by his relatives, unaware that he is famous in the magical world. On his eleventh birthday, he learns that he is a wizard and is invited to attend Hogwarts School of Witchcraft and Wizardry. There he becomes friends with Ron Weasley and Hermione Granger, learns about his parents, and discovers the truth about the dark wizard who killed them. Harry and his friends eventually uncover a plot involving a magical stone and face a threat connected to Lord Voldemort.",
+    "themes": [
+      "friendship",
+      "magic",
+      "courage",
+      "belonging",
+      "good versus evil"
+    ],
+    "genres": [
+      "fantasy",
+      "young adult",
+      "adventure"
+    ]
+  },
+  {
+    "title": "The Book Thief",
+    "short_summary": "A young girl in Nazi Germany finds comfort and resistance through books and friendship.",
+    "full_summary": "Liesel Meminger is sent to live with foster parents in Nazi Germany. She struggles with loss, fear, and the violence of the society around her, but gradually finds comfort in reading and stealing books. Her foster father teaches her to read, and the family later hides a Jewish man named Max in their basement. Liesel forms deep relationships with her foster family, Max, and her friend Rudy. The novel explores how words can be used both to oppress people and to preserve humanity.",
+    "themes": [
+      "war",
+      "friendship",
+      "language",
+      "loss",
+      "resistance"
+    ],
+    "genres": [
+      "historical fiction",
+      "war fiction"
+    ]
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "short_summary": "A young soldier experiences the physical and psychological devastation of World War I.",
+    "full_summary": "Paul Baumer and his classmates enlist in the German army after being encouraged by patriotic speeches. Their idealism quickly disappears as they experience trench warfare, hunger, fear, injury, and death. Paul becomes increasingly disconnected from civilian life and feels that his generation has been permanently damaged by war. The novel focuses less on military strategy and more on the emotional destruction experienced by ordinary soldiers.",
+    "themes": [
+      "war",
+      "trauma",
+      "loss of innocence",
+      "friendship",
+      "survival"
+    ],
+    "genres": [
+      "war fiction",
+      "historical fiction"
+    ]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "short_summary": "A sharp-witted young woman confronts social expectations, misunderstandings, and love.",
+    "full_summary": "Elizabeth Bennet lives with her parents and four sisters in a society where marriage strongly influences a woman's future. She initially dislikes the wealthy and reserved Mr. Darcy, believing him to be arrogant and unfair. Darcy also misjudges Elizabeth and her family. As both characters learn more about each other, they confront their own pride, prejudice, and mistaken assumptions. Their relationship develops through conflict, self-reflection, and personal growth.",
+    "themes": [
+      "love",
+      "marriage",
+      "social class",
+      "pride",
+      "misunderstanding"
+    ],
+    "genres": [
+      "romance",
+      "classic literature"
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "short_summary": "A mysterious millionaire pursues an idealized love in the wealthy society of the 1920s.",
+    "full_summary": "Nick Carraway moves to Long Island and becomes fascinated by his wealthy neighbor, Jay Gatsby. Gatsby throws extravagant parties but remains focused on reuniting with Daisy Buchanan, whom he loved years earlier. Daisy is married to Tom Buchanan, and the relationships among the characters become increasingly destructive. Gatsby's dream depends on recreating the past, while the world around him is shaped by wealth, carelessness, and social privilege.",
+    "themes": [
+      "wealth",
+      "love",
+      "the American dream",
+      "illusion",
+      "social class"
+    ],
+    "genres": [
+      "classic literature",
+      "tragedy"
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "short_summary": "A child witnesses racial injustice and moral courage in a small Southern town.",
+    "full_summary": "Scout Finch grows up in a small town with her brother Jem and their father, Atticus. Atticus is a lawyer who agrees to defend Tom Robinson, a Black man falsely accused of assaulting a white woman. Through the trial and its aftermath, Scout and Jem confront racism, prejudice, fear, and hypocrisy. At the same time, they learn that empathy requires trying to understand life from another person's perspective.",
+    "themes": [
+      "justice",
+      "racism",
+      "empathy",
+      "childhood",
+      "moral courage"
+    ],
+    "genres": [
+      "classic literature",
+      "coming-of-age fiction"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "short_summary": "A shepherd follows a dream across the desert in search of treasure and purpose.",
+    "full_summary": "Santiago, a young shepherd, repeatedly dreams about treasure near the Egyptian pyramids. Encouraged by several mysterious figures, he leaves his familiar life and travels across North Africa. Along the way, he works for a crystal merchant, joins a caravan, falls in love, and studies with an alchemist. His journey teaches him to pay attention to signs, pursue his personal calling, and understand that transformation is part of discovering what truly matters.",
+    "themes": [
+      "destiny",
+      "self-discovery",
+      "dreams",
+      "courage",
+      "spirituality"
+    ],
+    "genres": [
+      "philosophical fiction",
+      "adventure"
+    ]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "short_summary": "A fireman who burns books begins questioning a society that suppresses thought.",
+    "full_summary": "Guy Montag works as a fireman in a future society where books are forbidden and burned. His life changes after meeting Clarisse, a curious young woman who asks questions about happiness and freedom. Montag begins secretly reading the books he is supposed to destroy and realizes that his society uses distraction and censorship to prevent independent thought. His growing rebellion places him in conflict with his employer, his wife, and the authorities.",
+    "themes": [
+      "censorship",
+      "freedom",
+      "knowledge",
+      "conformity",
+      "technology"
+    ],
+    "genres": [
+      "dystopian fiction",
+      "science fiction"
+    ]
+  }
+]

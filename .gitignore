@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Keep the example file
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# ChromaDB
+storage/chroma/
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
